@@ -1,5 +1,6 @@
-Para subir a API primeiramente configure o arquivo .env 
-Exemplo
+Para subir a API primeiramente crie um arquivo .env apartir do arquivo .envexample dentro da pasta API mesmo
+Depois configure o arquivo .env 
+Exemplo altere esses campos com suas informações
 DB_CONNECTION=TYPO DO SEU BANCO DE DADOS
 DB_HOST=127.0.0.1
 DB_PORT=3306

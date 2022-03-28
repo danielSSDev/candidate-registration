@@ -8,6 +8,8 @@ DB_DATABASE=NOME DO BANCO DE DADOS CRIADO
 DB_USERNAME=root
 DB_PASSWORD=
 
-Depois de configurar rodar o comando "php artisan migrate" 
+Em seguida rode o comando "composer install".
+
+Depois rodar o comando "php artisan migrate" 
 em seguida subir o servidor para que API possa seer consumida, para isso rode o comando "php artisan serve"
 

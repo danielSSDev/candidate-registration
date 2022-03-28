@@ -1,0 +1,12 @@
+.btn-edit{
+    margin-right: 5px;
+}
+
+.btn-prox-one, .btn-prox-two, .btn-save{
+    margin-top: 10px;
+    float: right;
+}
+
+.error{
+    border: 1px solid red;
+}
